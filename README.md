@@ -105,13 +105,6 @@ jupyter notebook
 4. **04_analisis_fundamental.ipynb** - Ratios y valuación
 5. **05_integracion_final.ipynb** - Síntesis y recomendación
 
-## 📚 Recursos Adicionales
-
-- [Consignas Completas](CONSIGNAS.md)
-- [Metodología Detallada](docs/metodologia.md)
-- [Recursos de Aprendizaje](docs/recursos.md)
-- [Issues para Consultas](https://github.com/nfelix23/finanzas-trabajo-practico-utn-2025/issues)
-
 ## 🔄 Workflow de Trabajo
 
 1. **Trabajo local** en tu fork
