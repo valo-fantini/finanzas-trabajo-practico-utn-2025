@@ -126,12 +126,6 @@ jupyter notebook
 - ✅ Código limpio y comentado
 - ✅ Conclusiones y recomendaciones fundamentadas
 
-## 📞 Contacto y Consultas
-
-- **Consultas generales:** [Issues de GitHub](https://github.com/nfelix23/finanzas-trabajo-practico-utn-2025/issues)
-- **Consultas específicas:** Horarios de consulta presencial
-- **Email:** [profesor@utn.edu.ar](mailto:profesor@utn.edu.ar)
-
 ## ⚖️ Criterios de Evaluación
 
 | Aspecto | Peso | Descripción |
